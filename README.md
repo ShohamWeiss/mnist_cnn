@@ -1,2 +1,2 @@
-# mnist_cnn
-Toy ML training project to play with W&amp;B for running sweeps and logging metrics and model versions.
+# Pytorch_Sandbox
+Sandbox for using Pytorch with Weights and Biases, HuggingFace, and FastML.
